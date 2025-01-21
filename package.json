@@ -2,7 +2,6 @@
     "name": "liledix4_vercel",
     "version": "0.0.0",
     "description": "Vercel-powered test app",
-    "main": "index.mjs",
     "scripts": {
         "dev": "next dev",
         "build": "next build",
