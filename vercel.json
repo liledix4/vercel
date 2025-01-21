@@ -1,4 +1,4 @@
 {
     "framework": "nextjs",
-    "rewrites": [{ "source": "/(.*)", "destination": "/pages/errors/404.tsx" }]
+    "rewrites": [{ "source": "/(.*)", "destination": "/app/errors/404.tsx" }]
 }
