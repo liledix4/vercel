@@ -17,6 +17,7 @@
     },
     "homepage": "https://liledix4.vercel.app",
     "devDependencies": {
+        "@vercel/speed-insights": "^1.1.0",
         "vercel": "^39.3.0"
     }
 }
