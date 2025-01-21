@@ -1,3 +1,5 @@
-export default function Page() {
-    return <h1>Hiya!</h1>;
+export default function Home() {
+    return (
+        <h1>Hiya!</h1>
+    );
 }
