@@ -1,3 +1,4 @@
 {
-    "framework": "nextjs"
+    "framework": "nextjs",
+    "rewrites": [{ "source": "/(.*)", "destination": "/pages/errors/404.tsx" }]
 }
